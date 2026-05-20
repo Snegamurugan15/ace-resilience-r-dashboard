@@ -38,6 +38,12 @@ source("requirements.R")
 source("R/train_models.R")
 ```
 
+## Related Publication
+
+This project is connected to the publication:
+
+[Exploring the Impact of Early Trauma on Emotional Regulation and Mental Well-Being Among College Students](https://www.igi-global.com/chapter/exploring-the-impact-of-early-trauma-on-emotional-regulation-and-mental-well-being-among-college-students/351175)
+
 ## Public Data Note
 
 The original folder contains research spreadsheets and survey-related materials. Those files are not published here to avoid exposing individual response data. The included CSV is synthetic and only supports demo/retraining workflow checks.
